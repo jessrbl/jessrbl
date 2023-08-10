@@ -10,9 +10,9 @@
 
 - 👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student at UFSC.
 
-- 🌱 Currently I'm a Chemical Kinetics Researcher
+- 🌱 Currently I'm a Chemical Kinetics Researcher at LABMCI - UFSC.
 
-- 📝 I'm a very dedicated and curious person.  
+- 📝 I'm a very dedicated and curious person. I'm also excited about technology.
 
 
 
