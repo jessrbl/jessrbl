@@ -5,17 +5,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://pin.it/3TYrih3
 )
 
-
-👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student in Mechanical Sciences and Engineering at UFSC. Currently I'm a Chemical Kinetics Researcher that is very excited about technology and problem solving.  
-📝 I'm a very dedicated and curious person. I also love to learn new things.  
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif">
 
 
-<img align="right" alt="Coding" width="370" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif">
+- 👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student at UFSC.
+
+- 🌱 Currently I'm a Chemical Kinetics Researcher
+
+- 📝 I'm a very dedicated and curious person.  
 
 
-
-
-![Jessica GitHub stats](https://github-readme-stats.vercel.app/api?username=jessrbl&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **jessrbl/jessrbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
