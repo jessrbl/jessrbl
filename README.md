@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://pin.it/3TYrih3
 )
 
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif">
 
 
 - 👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student at UFSC.
