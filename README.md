@@ -1,6 +1,8 @@
 ### Hi there, I'm Jessica 👋
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>  
+
+  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://pin.it/3TYrih3
 )
@@ -32,18 +34,18 @@ Here are some ideas to get you started:
 -->
 
  ##
- 💻 Tech:
+<h3 align="left">💻 Languages and Tools:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jess-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jess-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-  <img align="center" alt="Jess-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> 
+  <img align="center" alt="Jess-Python" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> 
 </div>
 
         
           
 
 ##
-🔎 Find me:
+<h3 align="left"> 🔎 Connect with me:</h3>
 
 <div> 
    <a href="https://instagram.com/jessrbl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
