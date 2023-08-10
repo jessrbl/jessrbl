@@ -3,7 +3,7 @@
 #### Welcome to my Github! 
 
 
-👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student in Mechanical Sciences and Engineering at UFSC. Currently I'm a Chemical Kinetics Researcher.  
+👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student in Mechanical Sciences and Engineering at UFSC. Currently I'm a Chemical Kinetics Researcher that is very excited about technology and problem solving.
 📝 I'm a very dedicated and curious person. I also love to learn new things.
 
 
