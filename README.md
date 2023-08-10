@@ -1,14 +1,15 @@
 ### Hi there, I'm Jessica 👋
 
-#### Welcome to my Github! 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://pin.it/3TYrih3
+)
 
 
 👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student in Mechanical Sciences and Engineering at UFSC. Currently I'm a Chemical Kinetics Researcher that is very excited about technology and problem solving.  
-📝 I'm a very dedicated and curious person. I also love to learn new things.
+📝 I'm a very dedicated and curious person. I also love to learn new things.  
 
-
-
-
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif">
 
 
 ![Jessica GitHub stats](https://github-readme-stats.vercel.app/api?username=jessrbl&show_icons=true&theme=dracula&count_private=true)
@@ -36,7 +37,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> 
 </div>
 
+##
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
             
           
