@@ -1,7 +1,7 @@
 <!-- Your title -->
 ## Hello! I'm Jéssica ツ
 
-⚡️ i'm a chemical engineer currently pursuing a Master's degree in Mechanical Sciences and engineering;
+🎓 I'm a chemical engineer currently pursuing a Master's degree in Mechanical Sciences and engineering;
 
 👩🏻‍💻 I’m currently working as a researcher fellow at Federal University of Santa Catarina (UFSC);
 
