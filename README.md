@@ -1,73 +1,33 @@
-### Hi there, I'm Jessica 👋
+<!-- Your title -->
+## Hello! I'm Jéssica ツ
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>  
+⚡️ i'm a chemical engineer currently pursuing a Master's degree in Mechanical Sciences and engineering;
 
-  
+👩🏻‍💻 I’m currently working as a researcher fellow at Federal University of Santa Catarina (UFSC);
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://pin.it/3TYrih3
-)
-
-<img align="right" alt="Coding" width="270" src="https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif">
+✨ I am an extremely curious, interested, and dedicated person, always committed to expanding my horizons and acquiring new skills and knowledges. I am open to new connections and collaboration opportunities that allow me to continue growing and contributing significantly to the advancement of technology and science.
 
 
-- 👩🏼‍🔬 I'm a Chemical Engineer and Msc. Student at UFSC.
+💬 Feel free to contact me and find out more about my studies and work!
 
-- 🌱 Currently I'm a Chemical Kinetics Researcher at LABMCI - UFSC.
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicafernanda.rebelo@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicafrebelo/)
 
-- 📝 I'm a very dedicated and curious person. I'm also excited about technology.
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jessicafernanda.rebelo)
 
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+   ### Tools and Technologies
+   <span><img width="11%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></span>
+   <img width="14.5%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <span><img width="10%" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></span>
+  <br/>
+  <img width="10.7%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img width="11%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img width="14.5%" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+</p>
+<br />
 
+ 
 
-<!--
-**jessrbl/jessrbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m a chemical engineer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- ##
-<h3 align="left">💻 Languages and Tools:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jess-Python" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"> 
-  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
-  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
-  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Jess-Csharp" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-            
-            
-            
-          
-        
-                    
-</div>
-
-        
-          
-
-##
-<h3 align="left"> 🔎 Connect with me:</h3>
-
-<div> 
-   <a href="https://instagram.com/jessrbl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	  <a href = "mailto:jessicafernanda.rebelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jéssica-fernanda-rebelo-63b442135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-<div align="center">
-<img src="![download20230804152623]([https://github.com/jessrbl/jessrbl/assets/69112331/182e785b-5575-44f5-8705-8648baa86ebb](https://github.com/jessrbl/jessrbl/assets/69112331/182e785b-5575-44f5-8705-8648baa86ebb)https://github.com/jessrbl/jessrbl/assets/69112331/182e785b-5575-44f5-8705-8648baa86ebb)
-" width="300px" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
