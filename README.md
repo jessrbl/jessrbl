@@ -2,6 +2,7 @@
 ## Hello! I'm Jéssica ツ
 
 🎓 I hold a B.Sc. in Chemical Engineering and an M.Sc. in Mechanical Sciences and Engineering.
+
 👩🏻‍💻 I worked as a research fellow in chemical kinetics at the Federal University of Santa Catarina (UFSC).
 
 ✨ I am an extremely curious, interested, and dedicated person, always committed to expanding my horizons and acquiring new skills and knowledges. I am open to new connections and collaboration opportunities that allow me to continue growing and contributing significantly to the advancement of technology and science;
